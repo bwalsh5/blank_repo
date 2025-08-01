@@ -26,4 +26,4 @@ Open R or RStudio and run:
 shiny::runApp('app.R')
 ```
 
-The interface lets you pick one or more states and select a range of years to view the vaccine rates in separate plots for each vaccine.
+The interface lets you pick one or more states, select which vaccines to display, and choose a year range. The resulting plot shows the selected vaccines as colored lines and facets the data by state.
